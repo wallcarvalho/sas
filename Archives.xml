@@ -2,4 +2,7 @@
 <ArchInfo Date="1712845676710" Description="" Name="teste_github" PackageName="teste_github.spk" UserID="z3233" Version="8f98ce2">
 <ContainObj>SBIP://METASERVER/Products/Solutions/Visual Analytics/Jobs/AN_UTILIZADORES_COLOC_DIM_P00900(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1712845746175" Description="versao 1" Name="teste github2" PackageName="teste github2.spk" UserID="z3233" Version="be75928">
+<ContainObj>SBIP://METASERVER/Products/Solutions/Visual Analytics/Jobs/AN_UTILIZADORES_DIM_P00900(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
