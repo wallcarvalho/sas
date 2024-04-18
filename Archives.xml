@@ -8,4 +8,7 @@
 <ArchInfo Date="1712847838124" Description="v1" Name="teste github " PackageName="teste github .spk" UserID="z3233" Version="5b59056">
 <ContainObj>SBIP://METASERVER/Products/Solutions/Visual Analytics/Jobs/AN_REDE_ATIVA_DIM_P00900(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1713429522391" Description="" Name="teste GITHUB" PackageName="teste GITHUB.spk" UserID="z3233" Version="cd3ee5b">
+<ContainObj>SBIP://METASERVER/Products/Solutions/Visual Analytics/Jobs/AN_REDE_ATIVA_DIM_P00900(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
